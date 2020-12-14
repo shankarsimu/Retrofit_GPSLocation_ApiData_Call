@@ -15,7 +15,8 @@
 - implementation 'com.squareup.picasso:picasso:2.71828'
 - implementation 'com.google.android.gms:play-services:11.8.0'
 - implementation 'com.android.support:recyclerview-v7:27.1.1
-
+# Preview
+  - Click on issue
 
 # Licences
 - Licensed under the Apache License, Version 2.0 (the "License"); You may not use this file except in compliance with the License. You may obtain a copy of the License at
