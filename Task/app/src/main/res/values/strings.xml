@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rupeek Task</string>
+    <string name="GPSAlertDialogTitle">Rupeek Task</string>
+    <string name="GPSAlertDialogMessage">Rupeek Task</string>
+    <string name="action_settings">Rupeek Task</string>
+    <string name="cancel">Rupeek Task</string>
+    <string name="get_location">GET LOCATION</string>
+
+</resources>
