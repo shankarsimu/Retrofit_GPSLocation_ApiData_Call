@@ -16,7 +16,8 @@
 - implementation 'com.google.android.gms:play-services:11.8.0'
 - implementation 'com.android.support:recyclerview-v7:27.1.1
 # Preview
-  - Click on issue
+ 
+ ![](https://github.com/shankarsimu/Retrofit_GPSLocation_ApiData_Call/blob/master/Task/94686aca-250f-40ca-b010-726377a918fa.png)
 
 # Licences
 - Licensed under the Apache License, Version 2.0 (the "License"); You may not use this file except in compliance with the License. You may obtain a copy of the License at
